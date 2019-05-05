@@ -1,7 +1,7 @@
 /**
 * Package for calculate task.
 *
-* @author Alexander Tsakharias (AlexanderTsakharias@gmail.com)
+* @author Alexander Tsakharias (alexandertsakharias@gmail.com)
 * @version $Id$
 * @since 0.1
 */
